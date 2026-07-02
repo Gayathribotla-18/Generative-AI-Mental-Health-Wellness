@@ -57,3 +57,10 @@ This project leverages generative AI techniques to support mental health and wel
 
 This creates a modern, scalable, and secure mental health platform optimized for performance and user experience.
 
+
+## 🎥 Demo Video
+
+Check out the project demo on YouTube: 
+                                  [Watch Here]   ( https://youtu.be/ooTgdGlxXo8?si=ymZcQQSTnofOsv5D )
+                                  
+
